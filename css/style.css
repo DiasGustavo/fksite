@@ -51,6 +51,7 @@ p {margin-bottom:18px}
 .indent-left2 {padding-left:40px}
 .indent-left3 {padding-left:20px}
 .indent-left4 {padding-left:10px}
+
 .indent-right {padding-right:50px}
 
 .indent-bot {margin-bottom:20px}
@@ -227,6 +228,13 @@ h1 {
 	background:url(../images/content-bg.jpg) center top no-repeat;
 }
 
+
+h7 {
+	font-size:26px; 
+	line-height:2em; 
+	color:#39b9d6;
+	margin-bottom:3px;
+}
 h3 {
 	font-size:26px; 
 	line-height:2em; 
